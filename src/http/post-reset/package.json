@@ -1,0 +1,18 @@
+{
+  "name": "post-reset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@architect/functions": "^3.13.5",
+    "@begin/data": "^1.2.3",
+    "@sendgrid/mail": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

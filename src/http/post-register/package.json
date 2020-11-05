@@ -1,9 +1,7 @@
 {
-  "name": "begin-app-get-index",
-  "dependencies": {
-    "@architect/functions": "^3.13.4"
-  },
+  "name": "post-register",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "@architect/functions": "^3.13.4",
+    "@begin/data": "^1.2.3",
+    "bcryptjs": "^2.4.3"
+  }
 }

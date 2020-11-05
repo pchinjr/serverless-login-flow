@@ -1,0 +1,3 @@
+@testing
+SENDGRID_API_KEY XXXXXXXXXXX
+BASE_URL http://localhost:3333
